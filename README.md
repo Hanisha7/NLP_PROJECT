@@ -15,3 +15,5 @@ progress. Now there is some confusion present in the authenticity of the correct
 definitely opens the window for further research. There are some of the aspects that has to be
 kept in mind considering the fact that fake news detection is not only a simple web interface
 but also a quite complex thing that includes a lot of backend work.
+
+![image](https://user-images.githubusercontent.com/120970448/232208911-a2d1b5ba-704f-4c72-ac9b-21cee721c42d.png)
